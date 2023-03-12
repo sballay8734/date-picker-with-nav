@@ -1,7 +1,6 @@
 {
   "name": "date-picker",
   "version": "1.0.0",
-  "main": "script.js",
   "scripts": {
     "start": "parcel ./*.html",
     "predeploy": "rm -rf dist && parcel build ./*.html --public-url 'https://github.com/sballay8734/date-picker-with-nav'",
