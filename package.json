@@ -2,7 +2,7 @@
   "name": "date-picker",
   "version": "1.0.0",
   "scripts": {
-    "start": "parcel ./*.html",
+    "start": "parcel index.html",
     "predeploy": "rm -rf dist && parcel build ./*.html --public-url 'https://github.com/sballay8734/date-picker-with-nav'",
     "deploy": "gh-pages -d dist"
   },
