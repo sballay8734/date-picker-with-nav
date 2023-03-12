@@ -1,0 +1,25 @@
+{
+  "name": "date-picker",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sballay8734/date-picker-with-nav.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sballay8734/date-picker-with-nav/issues"
+  },
+  "homepage": "https://github.com/sballay8734/date-picker-with-nav#readme",
+  "description": ""
+}
